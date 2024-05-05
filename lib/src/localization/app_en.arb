@@ -1,0 +1,6 @@
+{
+  "appTitle": "interest_calc_application",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
